@@ -1,0 +1,7 @@
+pvl
+sphinx-autobuild
+sphinxcontrib-bibtex
+nbstripout
+bumpversion
+gitchangelog
+spiceypy
